@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eren1O
+- 👋 Hi, I’m @Eren
 - 👀 I’m interested in discord bot development.
 - 🌱 I’m currently learning.
 - 📫 How to reach me bot automation code's.
